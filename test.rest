@@ -1,0 +1,17 @@
+POST http://127.0.0.1:5000/mood
+Content-Type: application/json
+
+{
+    "username": "username",
+    "mood": "happy"
+}
+
+###
+
+POST http://127.0.0.1:5000/login
+Content-Type: application/json
+
+{
+    "username": "username",
+    "password": "password"
+}
