@@ -1,0 +1,16 @@
+What would I do differently?
+
+The first thing that I would do differently is to improve the security of the program.
+Currently all information is being sent openly and all user information is being stored as plain text as well.
+A suitable encryption algorithm should be chosen and all information that is being sent and stored
+should be encrypted to provide security to the users. Secondly, all the information that is being stored
+should be stored in a database when more users are supposed to use this application.
+In a complete application, other requirements would also come in to play, such as the user being able to log out, and new users being able to register and many more.
+Therefore, the way the user information is being stored and checked will be a lot different than what it is currently.
+As other requirements and restrictions come in to play, the development strategy may vary.
+
+The technology I would choose to use will depend on many factors. Therefore, my choice will change according to the specific situation, but 
+I might have still used Python for developing this API, due to its plethora of libraries.
+
+The most important thing that I would pay attention to during the development and testing process, if this was a product and not an assessment,
+I would pay a lot more attention to do load testing and the system being able to handle several requests.
